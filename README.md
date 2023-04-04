@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alx-Lai/Alx-Lai/raw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alx-Lai/Alx-Lai/raw/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Alx-Lai/Alx-Lai/raw/output/github-snake.svg" />
+</picture>
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alx-lai&show_icons=true&theme=transparent)](https://github.com/Alx-Lai/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
