@@ -15,12 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alx-Lai/Alx-Lai/raw/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alx-Lai/Alx-Lai/raw/output/github-contribution-grid-snake.svg" />
+  <source 
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/Alx-Lai/Alx-Lai/raw/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source 
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/Alx-Lai/Alx-Lai/raw/output/github-contribution-grid-snake.svg"
+  />
   <img alt="github-snake" src="https://github.com/Alx-Lai/Alx-Lai/raw/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alx-lai&show_icons=true&theme=transparent)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=alx-lai&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=alx-lai&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=alx-lai&show_icons=true" />
+</picture>
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alx-lai&layout=compact)
 🏫 I’m currently a student in NTU CSIE.
