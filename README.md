@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alx-lai&show_icons=true" />
 </picture>
 
-🏫 I’m currently a student in NTU CSIE.
+- Graduated from NTU CSIE as a bachelor in 2024 Summer.
+- Currently working as a software engineer.
+
